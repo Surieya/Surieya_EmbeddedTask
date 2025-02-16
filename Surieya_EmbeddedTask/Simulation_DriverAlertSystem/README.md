@@ -60,6 +60,11 @@ The program is structured as follows:
 4. Press the push button to simulate fastening the seatbelt.
 5. Observe the LED behavior based on the given conditions.
 
+## How to use 
+1. Download the "seatbelt" folder and use CodeBlocks with AVR complier settings.
+2. Complile the code and load the firmware code into the simulation(I've used Simule IDE).
+3. Run the simulation to test the code. 
+
 ## Expected Output
 - **LED ON:** When the seat is occupied (ADC voltage > THRESH) and the seatbelt is not fastened.
 - **LED OFF:** When the seat is empty or the seatbelt is fastened.
@@ -70,5 +75,5 @@ The program is structured as follows:
 - Add an LCD display for status messages.
 
 ## Author
-Developed by [Your Name].
+Developed by Surieya N.
 

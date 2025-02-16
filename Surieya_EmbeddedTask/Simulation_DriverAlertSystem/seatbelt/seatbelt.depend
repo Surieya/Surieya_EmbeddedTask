@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1736468765 source:d:\codeblks_pro\seatbelt\fuse.c
+	<avr/io.h>
+
